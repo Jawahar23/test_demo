@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 5844-09BE
+
+ Directory of E:\JavaScript\angular project\project1
+
+17-10-2022  07:42    <DIR>          .
+17-10-2022  07:42    <DIR>          ..
+17-10-2022  07:42                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  234,652,028,928 bytes free
